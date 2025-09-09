@@ -70,13 +70,5 @@ The project uses the following tables:
 - Automate daily sales reporting.  
 - Integrate with a real-time POS system.  
 
----
 
-## 📧 Contact
-**Author:** Rahul Verma  
-📩 Email: viveshkrsingh19@gmail.com  
-🔗 GitHub: [Your GitHub Profile](#)  
-🔗 LinkedIn: [Your LinkedIn Profile](#)  
 
----
-✨ *Feel free to fork this project, raise issues, or suggest improvements!*
