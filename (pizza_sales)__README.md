@@ -73,10 +73,7 @@ The project uses the following tables:
 ---
 
 ## 📧 Contact
-**Author:** Rahul Verma  
-📩 Email: viveshkrsingh19@gmail.com  
-🔗 GitHub: [Your GitHub Profile](#)  
-🔗 LinkedIn: [Your LinkedIn Profile](#)  
+**Author:** Rahul Bunker  
+📩 Email: rahulbunker34@gmail.com    
+🔗 LinkedIn: https://www.linkedin.com/in/rahul-bunker-257149304
 
----
-✨ *Feel free to fork this project, raise issues, or suggest improvements!*
